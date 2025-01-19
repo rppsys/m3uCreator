@@ -1,3 +1,5 @@
+-- Documentação em https://vlc.verg.ca/
+
 -- Define start-time e stop-time de vídeos no VLC e adiciona ao M3U
 local start_time = nil
 local stop_time = nil
@@ -26,6 +28,7 @@ function activate()
 	input_wgt = dlg:add_text_input("", 5)		
 	label_start = dlg:add_label("00:00:00", 6)
 	label_stop = dlg:add_label("00:00:00", 7)	
+	dlg:add_label("---------- ---------- ---------- ---------- ----------", 8)
 end
 
 function deactivate()
