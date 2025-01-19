@@ -1,0 +1,59 @@
+#EXTM3U
+#Passeio Embalse El Yeso 09/01/25 - Embase El Yeso
+
+#GH011416.MP4: 00:00:02 até 00:00:20 -- Indo para Embalse
+#EXTINF:-1,GH011416.MP4
+#EXTVLCOPT:start-time=2
+#EXTVLCOPT:stop-time=20
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011416.MP4
+
+#GH011417.MP4 -- Embalse El Yeso
+#EXTINF:-1,GH011417.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011417.MP4
+
+#GH011421.MP4: 00:00:08 até 00:00:45 -- Intro Embalse
+#EXTINF:-1,GH011421.MP4
+#EXTVLCOPT:start-time=8
+#EXTVLCOPT:stop-time=45
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011421.MP4
+
+#GH011421.MP4: 00:01:22 até 00:01:34 -- Intro Embalse
+#EXTINF:-1,GH011421.MP4
+#EXTVLCOPT:start-time=82
+#EXTVLCOPT:stop-time=94
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011421.MP4
+
+
+#GH011423.MP4: 00:00:00 até 00:00:44 -- Intro Embalse
+#EXTINF:-1,GH011423.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=44
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011423.MP4
+
+#GH011425.MP4: 00:00:02 até 00:00:30 -- Intro Embalse
+#EXTINF:-1,GH011425.MP4
+#EXTVLCOPT:start-time=2
+#EXTVLCOPT:stop-time=30
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011425.MP4
+
+#GH011426.MP4: 00:00:04 até 00:00:18 -- Intro Embalse
+#EXTINF:-1,GH011426.MP4
+#EXTVLCOPT:start-time=4
+#EXTVLCOPT:stop-time=18
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011426.MP4
+
+#GH011427.MP4: 00:01:29 até 00:01:44 -- Intro Embalse
+#EXTINF:-1,GH011427.MP4
+#EXTVLCOPT:start-time=89
+#EXTVLCOPT:stop-time=104
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011427.MP4
+
+#GH011428.MP4: 00:00:06 até 00:01:30 -- Intro Embalse
+#EXTINF:-1,GH011428.MP4
+#EXTVLCOPT:start-time=6
+#EXTVLCOPT:stop-time=90
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011428.MP4
+
+#GH011431.MP4 -- Intro Embalse
+#EXTINF:-1,GH011431.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011431.MP4

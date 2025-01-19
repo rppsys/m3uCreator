@@ -1,0 +1,62 @@
+#EXTM3U
+#Passeio Embalse El Yeso 09/01/25 - Termas
+
+#GH011393.MP4: 00:00:04 até 00:00:33 -- Introdução
+#EXTINF:-1,GH011393.MP4
+#EXTVLCOPT:start-time=4
+#EXTVLCOPT:stop-time=33
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011393.MP4
+
+#GH011396.MP4 -- Intro Piscina
+#EXTINF:-1,GH011396.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011396.MP4
+
+#GH011397.MP4: 00:00:00 até 00:03:09 -- Na Piscina
+#EXTINF:-1,GH011397.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=189
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011397.MP4
+
+#GH011398.MP4: 00:00:39 até 00:00:55 -- Na Piscina
+#EXTINF:-1,GH011398.MP4
+#EXTVLCOPT:start-time=39
+#EXTVLCOPT:stop-time=55
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011398.MP4
+
+#GH011399.MP4 -- Darli filma
+#EXTINF:-1,GH011399.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=45
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011399.MP4
+
+#GH011406.MP4 -- Visão Geral
+#EXTINF:-1,GH011406.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011406.MP4
+
+#GH011407.MP4: 00:01:29 até 00:01:49 -- Darli fica sem saber se entra na mais quente
+#EXTINF:-1,GH011407.MP4
+#EXTVLCOPT:start-time=89
+#EXTVLCOPT:stop-time=109
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011407.MP4
+
+#GH011408.MP4: 00:00:05 até 00:00:54 -- Eu na mais quente
+#EXTINF:-1,GH011408.MP4
+#EXTVLCOPT:start-time=5
+#EXTVLCOPT:stop-time=54
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011408.MP4
+
+#GH011409.MP4: 00:00:00 até 00:00:12 -- Darli entrou na mais quente
+#EXTINF:-1,GH011409.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=12
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011409.MP4
+
+#GH011410.MP4 -- Fervendo os pés
+#EXTINF:-1,GH011410.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011410.MP4
+
+#GH011411.MP4: 00:00:00 até 00:00:50 -- Fervendo os Pés
+#EXTINF:-1,GH011411.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=50
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011411.MP4

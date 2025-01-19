@@ -1,0 +1,147 @@
+#EXTM3U
+# Caminhada Centro Histórico 08 de Janeiro de 2025
+
+#GX011347.MP4: 00:00:05 até 00:00:26 -- Incio da Caminhada
+#EXTINF:-1,GX011347.MP4
+#EXTVLCOPT:start-time=5
+#EXTVLCOPT:stop-time=26
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011347.MP4
+
+#GX011350.MP4: 00:00:02 até 00:01:01 -- 
+#EXTINF:-1,GX011350.MP4
+#EXTVLCOPT:start-time=2
+#EXTVLCOPT:stop-time=61
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011350.MP4
+
+#GX011351.MP4 -- 
+#EXTINF:-1,GX011351.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011351.MP4
+
+#GX011352.MP4 -- 
+#EXTINF:-1,GX011352.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011352.MP4
+
+#GX011353.MP4 -- 
+#EXTINF:-1,GX011353.MP4
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011353.MP4
+
+
+#EXTINF:-1,GX011354.MP4 -- Inicio da Troca de Guardas
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=30
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011354.MP4
+
+#EXTINF:-1,GX011355.MP4
+#EXTVLCOPT:start-time=5
+#EXTVLCOPT:stop-time=57
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011355.MP4
+
+#EXTINF:-1,GX011357.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=56
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011357.MP4
+
+#EXTINF:-1,GX011358.MP4
+#EXTVLCOPT:start-time=10
+#EXTVLCOPT:stop-time=32
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011358.MP4
+
+#EXTINF:-1,GX011360.MP4
+#EXTVLCOPT:start-time=9
+#EXTVLCOPT:stop-time=45
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011360.MP4
+
+#EXTINF:-1,GX011362.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=14
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011362.MP4
+
+#EXTINF:-1,GX011363.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=27
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011363.MP4
+
+#EXTINF:-1,GX011367.MP4
+#EXTVLCOPT:start-time=6
+#EXTVLCOPT:stop-time=17
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011367.MP4
+
+#EXTINF:-1,GX011367.MP4
+#EXTVLCOPT:start-time=37
+#EXTVLCOPT:stop-time=108
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011367.MP4
+
+#EXTINF:-1,GX011371.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=26
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011371.MP4
+
+#EXTINF:-1,GX011372.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=37
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011372.MP4
+
+#EXTINF:-1,GX011373.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=94
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GX011373.MP4
+
+#EXTINF:-1,GH011375.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=18
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011375.MP4
+
+#EXTINF:-1,GH011376.MP4
+#EXTVLCOPT:start-time=31
+#EXTVLCOPT:stop-time=45
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011376.MP4
+
+#EXTINF:-1,GH011377.MP4
+#EXTVLCOPT:start-time=8
+#EXTVLCOPT:stop-time=25
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011377.MP4
+
+#EXTINF:-1,GH011378.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=18
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011378.MP4
+
+#EXTINF:-1,GH011380.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=34
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011380.MP4
+
+#EXTINF:-1,GH011384.MP4
+#EXTVLCOPT:start-time=21
+#EXTVLCOPT:stop-time=40
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011384.MP4
+
+#EXTINF:-1,GH011386.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=22
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011386.MP4
+
+#EXTINF:-1,GH011387.MP4
+#EXTVLCOPT:start-time=1
+#EXTVLCOPT:stop-time=52
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011387.MP4
+
+#EXTINF:-1,GH011388.MP4
+#EXTVLCOPT:start-time=2
+#EXTVLCOPT:stop-time=31
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011388.MP4
+
+#EXTINF:-1,GH011390.MP4
+#EXTVLCOPT:start-time=12
+#EXTVLCOPT:stop-time=22
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011390.MP4
+
+#EXTINF:-1,GH011391.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=34
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011391.MP4
+
+#EXTINF:-1,GH011392.MP4
+#EXTVLCOPT:start-time=0
+#EXTVLCOPT:stop-time=47
+file:///F:/MIDIA/Caminhada Centro e Termas 8 e 9 Jan2025/GH011392.MP4
